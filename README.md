@@ -159,6 +159,18 @@ En cas que el curs no es realitzi, es retornarà l'import complet de la reserva.
 | Mitjans<br />Entre 1.000 i 1.500€/mes | 800€         | 464€                | 105€  | 58€         |
 | Alts<br />Més de 1.500€/mes           | 1.120€       | 464€                | 145€  | 58€         |
 
+| Ingressos                             | Curs i allotjament | Mòdul i allotjament |
+| ------------------------------------- | :----------------- | :------------------ |
+| Baixos<br />Atur/ Menys de 1.000€/mes | 1.024€             | 133€                |
+| Mitjans<br />Entre 1.000 i 1.500€/mes | 1.264€             | 163€                |
+| Alts<br />Més de 1.500€/mes           | 1.584€             | 203€                |
+
+El pagament del curs pot fer-se en un, dos o tres pagaments. Les dates límits són:
+
+* Primer pagament: 16 d'octubre del 2017
+* Segon pagament: 22 de gener del 2018
+* Tercer pagament: 23 d'abril del 2018
+
 ### Allotjament
 
 Els tallers es faran a l’alberg s’Olivaret, entre Consell i Alaró. **El preu per cap de setmana serà de 58€.** Inclou l'allotjament (2 nits) i totes les menjades (és possible opció vegetariana).
