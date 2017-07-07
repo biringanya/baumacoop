@@ -7,15 +7,6 @@ Documents de treball de la cooperativa
 
 ---
 
-<style type="text/css">
-
- img {
- float: left;
- padding-right: 1em;
- }
-
-</style>
-
 2na. edició any base a Mallorca
 # Facilitació de grups
 ## Eines i habilitats per viure una millor experiència en col·lectius, equips de feina i organitzacions
@@ -163,7 +154,7 @@ En cas que el curs no es realitzi, es retornarà l'import complet de la reserva.
 | Ingressos                             | Curs complet | Allotjament complet | Mòdul | Allotjament |
 | ------------------------------------- | :----------- | :------------------ | :---- | :---------- |
 | Baixos<br />Atur/ Menys de 1.000€/mes | 560€         | 464€                | 75€   | 58€         |
-| Mitjanszbr />Entre 1.000 i 1.500€/mes | 800€         | 464€                | 105€  | 58€         |
+| Mitjans<br />Entre 1.000 i 1.500€/mes | 800€         | 464€                | 105€  | 58€         |
 | Alts<br />Més de 1.500€/mes           | 1.120€       | 464€                | 145€  | 58€         |
 
 ### Allotjament
