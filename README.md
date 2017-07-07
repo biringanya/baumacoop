@@ -117,13 +117,13 @@ Inicia l'any 2000 el seu treball amb persones i grups en temàtiques com l'educa
 
 ### Marta Porta
 ![Marta Porta](http://www.facilitacion.org/wp-content/uploads/2011/10/marta-02-portrait-290x290.jpg "Marta Porta")
-És llicenciada en Biologia per la Universitat de Barcelona (1985) i Màster en medi ambient per l'ITC. Treballà durant més de 10 anys en l'àmbit de l'empresa privada, on va adquirir experiència en la creació d'equips de treball participatius i motivadors i en la gestió de reunions eficients.
+**Facilitadora de grups certificada per l'IIFACE**. És llicenciada en Biologia per la Universitat de Barcelona (1985) i Màster en medi ambient per l'ITC. Treballà durant més de 10 anys en l'àmbit de l'empresa privada, on va adquirir experiència en la creació d'equips de treball participatius i motivadors i en la gestió de reunions eficients.
 
 El 2004 inicià una formació en facilitació de grups i gestió de conflictes que s'ha anat ampliant fins avui a través de múltiples tallers i cursos. Avui en dia es dedica a l'acompanyament de grups, la facilitació d'assemblees i reunions de diversos col·lectius i imparteix tallers sobre comunicació assertiva, gestió de conflictes i altres temes relacionats, utilitzant eines diverses com el joc, el teatre de l'oprimit o l'art-teràpia.
 
 ### Anna Pujol
 ![Anna Pujol](http://www.facilitacion.org/wp-content/uploads/2011/10/ana-pujol-01-portrait-290x290.jpg "Anna Pujol")
-Llicenciada en Ciències ambientals per la Universitat autònoma de Barcelona (2005). Posteriorment, dins del marc de l'educació formal, realitza dos postgraus del màster de Sostenibilitat de la Càtedra UNESCO de la Universitat Politècnica de Terrassa: *Educació per a la sostenibilitat* i *L'estat del món*.
+**Facilitadora de grups certificada per l'IIFACE**. Llicenciada en Ciències ambientals per la Universitat autònoma de Barcelona (2005). Posteriorment, dins del marc de l'educació formal, realitza dos postgraus del màster de Sostenibilitat de la Càtedra UNESCO de la Universitat Politècnica de Terrassa: *Educació per a la sostenibilitat* i *L'estat del món*.
 
 A travès de la porta de l'educació ambiental, s'endinsa en col·lectius situats als marges de la societat (especialment joves en risc, dones i salut mental) i això li permet descobrir la seva passió pel potencial inherent de les persones i els grups.
 
