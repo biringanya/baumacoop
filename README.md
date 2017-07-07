@@ -182,7 +182,7 @@ El procés d'inscripció consta de dues parts:
 
 Si t'interessa participar de la formació, les passes a realitzar són:
 
-1. **Tu** completes el [formulari d'inscripció](#).
+1. **Tu** completes el [formulari d'inscripció](https://goo.gl/forms/FipBzLvaWZhOHFbq2).
 2. **Nosaltres** et responem per correu electrònic, facilitant-te instruccions per al pagament de la reserva.
 3. **Tu** ingresses l'import de la reserva de plaça.
 4. **Nosaltres** t'escrivim per confirmar que el curs es durà a terme i donant-te les instruccions per formalitzar la matricula.
