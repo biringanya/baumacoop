@@ -147,6 +147,8 @@ Tots els mòduls es celebraran en cap de setmana i en el següent horari.
 
 Demanam un abonament de reserva de plaça **corresponent al preu d'un mòdul segons el teu nivell d'ingressos** (consulta la taula de baix) **abans del 6 d'octubre**.
 
+L'import de la reserva per a seminaris aïllats és de 50€.
+
 En cas que el curs no es realitzi, es retornarà l'import complet de la reserva. En altre cas, no es faran devolucions.
 
 ### Formació
